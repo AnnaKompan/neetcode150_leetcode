@@ -1,1 +1,77 @@
 # neetcode150_leetcode
+
+- [Contains Duplicate](./contains_duplicate.py)
+- Valid Anagram
+- Two Sum
+- Group Anagrams
+- Top K Frequent Elements
+- Encode and Decode Strings
+- Product of Array Except Self
+- Valid Sudoku
+- Longest Consecutive Sequence
+- Valid Palindrome
+- Two Sum II Input Array Is Sorted
+- 3Sum
+- Container With Most Water
+- Trapping Rain Water
+- Best Time to Buy And Sell Stock
+- Longest Substring Without Repeating Characters
+- Longest Repeating Character Replacement
+- Permutation In String
+- Minimum Window Substring
+- Sliding Window Maximum
+- Valid Parentheses
+- Min Stack
+- Evaluate Reverse Polish Notation
+- Daily Temperatures
+- Car Fleet
+- Largest Rectangle In Histogram
+- Binary Search
+- Search a 2D Matrix
+- Koko Eating Bananas
+- Find Minimum In Rotated Sorted Array
+- Search In Rotated Sorted Array
+- Time Based Key Value Store
+- Median of Two Sorted Arrays
+- Reverse Linked List
+- Merge Two Sorted Lists
+- Linked List Cycle
+- Reorder List
+- Remove Nth Node From End of List
+- Copy List With Random Pointer
+- Add Two Numbers
+- Find The Duplicate Number
+- LRU Cache
+- Merge K Sorted Lists
+- Reverse Nodes In K Group
+- Invert Binary Tree
+- Maximum Depth of Binary Tree
+- Diameter of Binary Tree
+- Balanced Binary Tree
+- Same Tree
+- Subtree of Another Tree
+- Lowest Common Ancestor of a Binary Search Tree
+- Binary Tree Level Order Traversal
+- Binary Tree Right Side View
+- Count Good Nodes In Binary Tree
+- Validate Binary Search Tree
+- Kth Smallest Element In a Bst
+- Construct Binary Tree From Preorder And Inorder Traversal
+- Binary Tree Maximum Path Sum
+- Serialize And Deserialize Binary Tree
+- Kth Largest Element In a Stream
+- Last Stone Weight
+- K Closest Points to Origin
+- Kth Largest Element In An Array
+- Task Scheduler
+- Design Twitter
+- Find Median From Data Stream
+- Subsets
+- Combination Sum
+- Combination Sum II
+- Permutations
+- Subsets II
+- Generate Parentheses
+- Word Search
+- Palindrome Partitioning
+- Letter Combinations of a Phone Number
