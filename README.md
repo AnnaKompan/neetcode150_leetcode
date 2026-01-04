@@ -1,8 +1,8 @@
 # neetcode150_leetcode
 
 - [Contains Duplicate](./contains_duplicate.py)
-- Valid Anagram
-- Two Sum
+- [Valid Anagram](./valid_anagram.py)
+- [Two Sum](./two_sum.py)
 - Group Anagrams
 - Top K Frequent Elements
 - Encode and Decode Strings
