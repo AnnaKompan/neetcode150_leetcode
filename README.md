@@ -14,13 +14,13 @@
 - 3Sum
 - Container With Most Water
 - Trapping Rain Water
-- Best Time to Buy And Sell Stock
+- [Best Time to Buy And Sell Stock](./best_time_buy_stock.py)
 - Longest Substring Without Repeating Characters
 - Longest Repeating Character Replacement
 - Permutation In String
 - Minimum Window Substring
 - Sliding Window Maximum
-- Valid Parentheses
+- [Valid Parentheses](./valid_parentheses.py)
 - Min Stack
 - Evaluate Reverse Polish Notation
 - Daily Temperatures
