@@ -8,7 +8,7 @@ Time: O(n)
 Space: O(1)
 Link: https://neetcode.io/problems/best-time-to-buy-and-sell-stock/history
 """
-
+from typing import List
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         cheapest = prices[0]

@@ -26,7 +26,7 @@
 - Daily Temperatures
 - Car Fleet
 - Largest Rectangle In Histogram
-- Binary Search
+- [Binary Search](./binary_search.py)
 - Search a 2D Matrix
 - Koko Eating Bananas
 - Find Minimum In Rotated Sorted Array

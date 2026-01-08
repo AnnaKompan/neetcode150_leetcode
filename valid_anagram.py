@@ -5,6 +5,7 @@ Time: O(n)
 Space: O(n)
 Link: https://neetcode.io/problems/valid-anagram/history
 """
+from typing import List
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         if len(s) != len(t):

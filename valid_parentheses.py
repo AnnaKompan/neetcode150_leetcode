@@ -9,6 +9,7 @@ Time: O(n)
 Space: O(n)
 Link: https://neetcode.io/problems/valid-parentheses/history
 """
+from typing import List
 class Solution:
     def isValid(self, s: str) -> bool:
         open = []
