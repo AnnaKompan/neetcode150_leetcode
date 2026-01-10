@@ -33,7 +33,7 @@
 - Search In Rotated Sorted Array
 - Time Based Key Value Store
 - Median of Two Sorted Arrays
-- Reverse Linked List
+- [Reverse Linked List](./reverse_linked_list.py)
 - Merge Two Sorted Lists
 - Linked List Cycle
 - Reorder List
