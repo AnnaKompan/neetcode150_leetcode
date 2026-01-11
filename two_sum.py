@@ -5,7 +5,7 @@ You may assume that each input would have exactly one solution, and you may not 
 You can return the answer in any order.
 Time: O(n)
 Space: O(n)
-Link: https://neetcode.io/problems/two-sum/history
+Link: https://neetcode.io/problems/two-integer-sum/question?list=neetcode150
 """
 from typing import List
 class Solution:

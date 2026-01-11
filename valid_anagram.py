@@ -3,7 +3,7 @@ Docstring for valid_anagram
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 Time: O(n)
 Space: O(n)
-Link: https://neetcode.io/problems/valid-anagram/history
+Link: https://neetcode.io/problems/is-anagram/question?list=neetcode150
 """
 from typing import List
 class Solution:

@@ -6,7 +6,7 @@ Return the maximum profit you can achieve from this transaction. If you cannot a
 0.
 Time: O(n)
 Space: O(1)
-Link: https://neetcode.io/problems/best-time-to-buy-and-sell-stock/history
+Link: https://neetcode.io/problems/buy-and-sell-crypto/question?list=neetcode150
 """
 from typing import List
 class Solution:

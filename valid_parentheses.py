@@ -7,7 +7,7 @@ Open brackets must be closed in the correct order.
 Every close bracket has a corresponding open bracket of the same type.
 Time: O(n)
 Space: O(n)
-Link: https://neetcode.io/problems/valid-parentheses/history
+Link: https://neetcode.io/problems/validate-parentheses/question?list=neetcode150
 """
 from typing import List
 class Solution:

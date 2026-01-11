@@ -4,6 +4,7 @@ Given an array of integers nums which is sorted in ascending order, and an integ
 You must write an algorithm with O(log n) runtime complexity.
 Time: O(n)
 Space: O(1)
+Link: https://neetcode.io/problems/binary-search/question?list=neetcode150
 """
 from typing import List
 class Solution:

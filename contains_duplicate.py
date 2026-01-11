@@ -2,7 +2,7 @@
 Problem: Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 Time: O(n)
 Space: O(n)
-Link: https://neetcode.io/problems/duplicate-integer/history
+Link: https://neetcode.io/problems/duplicate-integer/question?list=neetcode150
 """
 from typing import List
 class Solution:

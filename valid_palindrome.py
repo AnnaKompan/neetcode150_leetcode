@@ -10,7 +10,7 @@ Output: true
 Time: O(n)
 Space: O(1)
 
-Link: https://neetcode.io/problems/valid-palindrome/history
+Link: https://neetcode.io/problems/is-palindrome/question?list=neetcode150
 """
 class Solution:
     def isPalindrome(self, s: str) -> bool:

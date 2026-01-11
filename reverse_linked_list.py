@@ -3,7 +3,7 @@ Docstring for reverse_linked_list
 Given the head of a singly linked list, reverse the list, and return the reversed list.
 Time: O(n)
 Space: O(1)
-Link: https://neetcode.io/problems/reverse-linked-list/history
+Link: https://neetcode.io/problems/reverse-a-linked-list/question?list=neetcode150
 """
 
 from typing import Optional
