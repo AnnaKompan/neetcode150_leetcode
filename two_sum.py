@@ -7,6 +7,7 @@ Time: O(n)
 Space: O(n)
 Link: https://neetcode.io/problems/two-sum/history
 """
+from typing import List
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         hash = {}

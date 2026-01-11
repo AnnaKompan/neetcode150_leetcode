@@ -14,26 +14,26 @@
 - 3Sum
 - Container With Most Water
 - Trapping Rain Water
-- Best Time to Buy And Sell Stock
+- [Best Time to Buy And Sell Stock](./best_time_buy_stock.py)
 - Longest Substring Without Repeating Characters
 - Longest Repeating Character Replacement
 - Permutation In String
 - Minimum Window Substring
 - Sliding Window Maximum
-- Valid Parentheses
+- [Valid Parentheses](./valid_parentheses.py)
 - Min Stack
 - Evaluate Reverse Polish Notation
 - Daily Temperatures
 - Car Fleet
 - Largest Rectangle In Histogram
-- Binary Search
+- [Binary Search](./binary_search.py)
 - Search a 2D Matrix
 - Koko Eating Bananas
 - Find Minimum In Rotated Sorted Array
 - Search In Rotated Sorted Array
 - Time Based Key Value Store
 - Median of Two Sorted Arrays
-- Reverse Linked List
+- [Reverse Linked List](./reverse_linked_list.py)
 - Merge Two Sorted Lists
 - Linked List Cycle
 - Reorder List
