@@ -24,3 +24,19 @@ class Solution:
             anagrams[key].append(w)
 
         return list(anagrams.values())
+
+"""
+Time: O(n k log k) where n is number of strings and k is max length of a string
+Space: O(n k)
+"""
+from collections import defaultdict
+
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        if len(strs) == 0:
+            return strs
+        anagrams_dict = defaultdict(list)
+        for w in strs:
+            key = ''.join(sorted(w))
+            anagrams_dict[key].append(w)
+        return list(anagrams_dict.values())
