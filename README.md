@@ -3,8 +3,8 @@
 - [Contains Duplicate](./contains_duplicate.py)
 - [Valid Anagram](./valid_anagram.py)
 - [Two Sum](./two_sum.py)
-- Group Anagrams
-- Top K Frequent Elements
+- [Group Anagrams](./group_anagrams.py)
+- [Top K Frequent Elements](./top_k_frequent_element.py)
 - Encode and Decode Strings
 - Product of Array Except Self
 - Valid Sudoku
