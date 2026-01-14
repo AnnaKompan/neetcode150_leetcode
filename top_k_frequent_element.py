@@ -14,3 +14,24 @@ class Solution:
         for num in nums:
             counter[num] += 1
         return sorted(counter, key= lambda x: counter[x], reverse=True)[:k]
+"""
+Time: O(k log n) where n is number of elements in the array, k is number of top frequent elements to return
+Space: O(n)
+"""
+import heapq
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        counter = defaultdict(int)
+        for num in nums:
+            counter[num] += 1
+        
+        heap = []
+        for num, freq in counter.items():
+            heapq.heappush(heap, (-freq, num))
+
+        result=[]
+        for _ in range(k):
+            freq, num = heapq.heappop(heap)
+            result.append(num)
+        return result
+        
