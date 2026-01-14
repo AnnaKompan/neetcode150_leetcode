@@ -34,4 +34,21 @@ class Solution:
             freq, num = heapq.heappop(heap)
             result.append(num)
         return result
-        
+"""
+Time: O(n) where n is number of elements in the array
+Space: O(n)
+"""
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        counter = defaultdict(int)
+        freq = [[] for i in range(len(nums)+1)]
+        for num in nums:
+            counter[num] += 1
+        for num, count in counter.items():
+            freq[count].append(num)
+        result = []
+        for i in range(len(freq) -1, 0, -1):
+            for n in freq[i]:
+                result.append(n)
+                if len(result) == k:
+                    return result
