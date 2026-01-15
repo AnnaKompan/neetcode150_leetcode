@@ -5,7 +5,7 @@
 - [Two Sum](./two_sum.py)
 - [Group Anagrams](./group_anagrams.py)
 - [Top K Frequent Elements](./top_k_frequent_element.py)
-- Encode and Decode Strings
+- [Encode and Decode Strings](./encode_decode_str.py)
 - Product of Array Except Self
 - Valid Sudoku
 - Longest Consecutive Sequence
