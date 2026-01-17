@@ -8,7 +8,7 @@
 - [Encode and Decode Strings](./encode_decode_str.py)
 - Product of Array Except Self
 - Valid Sudoku
-- Longest Consecutive Sequence
+- [Longest Consecutive Sequence](./longest_consecutive_sequence.py)
 - [Valid Palindrome](./valid_palindrome.py)
 - Two Sum II Input Array Is Sorted
 - 3Sum
