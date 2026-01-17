@@ -2,7 +2,7 @@
 Docstring for longest_consecutive_sequence
 Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
 You must write an algorithm that runs in O(n) time.
-Time: O(n^2) where n is number of elements in the array
+Time: O(n)
 Space: O(1)
 Link: https://neetcode.io/problems/longest-consecutive-sequence/question?list=neetcode150
 """
