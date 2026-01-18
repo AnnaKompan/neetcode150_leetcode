@@ -22,3 +22,22 @@ class Solution:
                     longest_seq = max(curr_seq, longest_seq)
                     curr_seq = 1
         return max(curr_seq, longest_seq)
+    
+"""
+Time: O(n^2)
+Space: O(1)
+"""
+class Solution:
+    def longestConsecutive(self, nums: List[int]) -> int:
+        if not nums:
+            return 0
+        longest = 1
+        for num in nums:
+            curr_n = num
+            curr_seq = 1
+            while curr_n+1 in nums:
+                curr_n += 1
+                curr_seq += 1
+            longest = max(longest, curr_seq)
+        return longest
+        
