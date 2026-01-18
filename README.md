@@ -6,7 +6,7 @@
 - [Group Anagrams](./group_anagrams.py)
 - [Top K Frequent Elements](./top_k_frequent_element.py)
 - [Encode and Decode Strings](./encode_decode_str.py)
-- Product of Array Except Self
+- [Product of Array Except Self](./products_of_arr_except_self.py)
 - Valid Sudoku
 - [Longest Consecutive Sequence](./longest_consecutive_sequence.py)
 - [Valid Palindrome](./valid_palindrome.py)
