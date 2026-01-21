@@ -8,10 +8,24 @@ Input: s = "A man, a plan, a canal: Panama"
 Output: true
 
 Time: O(n)
-Space: O(1)
+Space: O(n)
 
 Link: https://neetcode.io/problems/is-palindrome/question?list=neetcode150
 """
+
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        newStr = ""
+        for c in s:
+            if c.isalnum():
+                newStr += c.lower()
+        return newStr == newStr[::-1]
+
+"""
+Time: O(n)
+Space: O(1)
+"""
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         l, r = 0, len(s) - 1
