@@ -9,18 +9,16 @@ Time: O(n)
 Space: O(n)
 Link: https://neetcode.io/problems/validate-parentheses/question?list=neetcode150
 """
-from typing import List
 class Solution:
     def isValid(self, s: str) -> bool:
-        open = []
-        for str in s:
-            if str == '{' or str == '(' or str == '[':
-                open.append(str)
+        stack = []
+        closeToOpen = {']':'[', '}':'{', ')':'('}
+        for char in s:
+            if char in closeToOpen:
+                if stack and closeToOpen[char] == stack[-1]:
+                    stack.pop()
+                else:
+                    return False
             else:
-                if open == []:
-                    return False
-                elif str == ']' and open.pop() != '['or \
-                str == ')' and open.pop() != '(' or \
-                str == '}' and open.pop() != '{':
-                    return False
-        return open == []
+                stack.append(char)
+        return True if not stack else False

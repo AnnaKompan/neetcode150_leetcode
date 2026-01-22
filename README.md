@@ -7,7 +7,7 @@
 - [Top K Frequent Elements](./top_k_frequent_element.py)
 - [Encode and Decode Strings](./encode_decode_str.py)
 - [Product of Array Except Self](./products_of_arr_except_self.py)
-- Valid Sudoku
+- [Valid Sudoku](./valid_sudoku.py)
 - [Longest Consecutive Sequence](./longest_consecutive_sequence.py)
 - [Valid Palindrome](./valid_palindrome.py)
 - Two Sum II Input Array Is Sorted
