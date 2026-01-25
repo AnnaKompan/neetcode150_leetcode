@@ -9,7 +9,7 @@
 - [Product of Array Except Self](./products_of_arr_except_self.py)
 - [Valid Sudoku](./valid_sudoku.py)
 - [Longest Consecutive Sequence](./longest_consecutive_sequence.py)
-- [Valid Palindrome](./valid_palindrome.py)
+- [Valid Palindrome](./valid_palindrome.py) ✅
 - [Two Sum II Input Array Is Sorted](./two_int_sum_input_sorted.py)
 - 3Sum
 - Container With Most Water
