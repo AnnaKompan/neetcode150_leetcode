@@ -11,10 +11,10 @@
 - [Longest Consecutive Sequence](./longest_consecutive_sequence.py)
 - [Valid Palindrome](./valid_palindrome.py) ✅
 - [Two Sum II Input Array Is Sorted](./two_int_sum_input_sorted.py)
-- 3Sum
-- Container With Most Water
+- [3Sum](./3sum.py) ✅
+- [Container With Most Water](./container_w_most_water.py)
 - Trapping Rain Water
-- [Best Time to Buy And Sell Stock](./best_time_buy_stock.py)
+- [Best Time to Buy And Sell Stock](./best_time_buy_stock.py) ✅
 - Longest Substring Without Repeating Characters
 - Longest Repeating Character Replacement
 - Permutation In String
