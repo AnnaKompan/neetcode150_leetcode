@@ -31,3 +31,22 @@ class Solution:
                 r -= 1
         # 7. Return max water cointainer can hold
         return max_amount
+
+"""
+Brute Force Solution
+Time: O(n^2)
+Space: O(n)
+"""
+class Solution:
+    def maxArea(self, heights: List[int]) -> int:
+        # 1. Define max_res that is going to be updated each iteration
+        max_res = 0
+        # 2. Start nested loops to check each pair
+        for i in range(len(heights)):
+            for j in range(i+1, len(heights)):
+        # 3. Current max container is j-i * min of both heights
+                curr_res = (j-i)*min(heights[j], heights[i])
+        # 4. Update max_res with max result
+                max_res = max(curr_res, max_res)
+        # 5. Return max_res
+        return max_res
