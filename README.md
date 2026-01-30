@@ -13,7 +13,7 @@
 - [Two Sum II Input Array Is Sorted](./two_int_sum_input_sorted.py)
 - [3Sum](./3sum.py) ✅
 - [Container With Most Water](./container_w_most_water.py) ✅
-- Trapping Rain Water
+- [Trapping Rain Water](./trapping_water.py) ✅
 - [Best Time to Buy And Sell Stock](./best_time_buy_stock.py) ✅
 - Longest Substring Without Repeating Characters
 - Longest Repeating Character Replacement
